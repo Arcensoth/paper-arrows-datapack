@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": [
+      { "text": "", "color": "gray" },
+      { "text": "Paper Arrows", "color": "green" },
+      "\n",
+      "Allows crafting arrows with paper instead of feathers.",
+      "\n",
+      { "text": "1.0.0-dev for Minecraft 1.14", "color": "dark_gray" },
+      "\n",
+      "By ",
+      { "text": "Arcensoth", "color": "yellow" }
+    ]
+  }
+}
